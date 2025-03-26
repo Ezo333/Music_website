@@ -1,0 +1,16 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #121212; /* Ensure background matches the overall design */
+	height: 100%;
+	width: 100%;
+	overflow-x: hidden; /* Prevent horizontal scrolling */
+  }
+  
+  #app {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	width: 100%;
+  }
+  
